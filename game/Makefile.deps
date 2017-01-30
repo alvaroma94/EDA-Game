@@ -1,0 +1,13 @@
+AIDaryl.o: AIDaryl.cc Player.hh Utils.hh Board.hh Action.hh Registry.hh
+AIDaryl2.o: AIDaryl2.cc Player.hh Utils.hh Board.hh Action.hh Registry.hh
+AIDaryl3.o: AIDaryl3.cc Player.hh Utils.hh Board.hh Action.hh Registry.hh
+AIDaryl4.o: AIDaryl4.cc Player.hh Utils.hh Board.hh Action.hh Registry.hh
+AIDemo.o: AIDemo.cc Player.hh Utils.hh Board.hh Action.hh Registry.hh
+AINull.o: AINull.cc Player.hh Utils.hh Board.hh Action.hh Registry.hh
+Action.o: Action.cc Action.hh Utils.hh Board.hh
+Board.o: Board.cc Board.hh Utils.hh Action.hh
+Game.o: Game.cc Game.hh Utils.hh Board.hh Action.hh Player.hh Registry.hh
+Main.o: Main.cc Game.hh Utils.hh Board.hh Action.hh Player.hh Registry.hh
+Player.o: Player.cc Player.hh Utils.hh Board.hh Action.hh Registry.hh
+Registry.o: Registry.cc Registry.hh Utils.hh
+Utils.o: Utils.cc Utils.hh
